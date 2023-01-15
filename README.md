@@ -5,6 +5,7 @@ composer create-project laravel/laravel Smartfx
 
 cd Smartfx
 
+then extract the files in smartfx floder
 then  click this website for files comperssor https://image.intervention.io/v2/introduction/installation
 
 run commend 
